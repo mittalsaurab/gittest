@@ -1,0 +1,3 @@
+Hello everybody!
+My name is Ashish and i am a novice in field of git and github
+this file is just to check how much I've learnt so far.
